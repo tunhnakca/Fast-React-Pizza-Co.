@@ -1,4 +1,4 @@
-This project was developed following a course by [Jonas Schmedtmann](https://github.com/jonasschmedtmann).
+!This project was developed following a course by [Jonas Schmedtmann](https://github.com/jonasschmedtmann).
 
 # Getting Started with Create React App
 
