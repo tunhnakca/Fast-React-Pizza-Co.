@@ -1,3 +1,5 @@
+This project was developed following a course by [Jonas Schmedtmann](https://github.com/jonasschmedtmann).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
